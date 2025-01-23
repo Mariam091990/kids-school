@@ -140,4 +140,12 @@ font-size: 16px;
     margin-top: 5rem;
     justify-content: center;
   }
+  .our-stories{
+    max-width: 450px;
+    margin: 0 auto;
+  }
+.story .story-1{
+  max-width: 450px ;
+  border: solid;
+}
    
