@@ -1,0 +1,143 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
+
+
+.quicksand-font {
+  font-family: "Quicksand", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+/* shared style*/
+.bg-color{
+  background-color: #F7F7F7;
+}
+
+.orange{
+  color: coral;
+}
+.sky-blue{
+  color: blue;
+}
+.black{
+  color: black;
+}
+
+.display-flex{
+    display:flex;
+}
+
+.nav-item{
+    list-style: none;
+    margin-right: auto;
+}
+
+.nav-link{
+text-decoration: none;
+font-weight: 500;
+
+
+}
+.nav-links{
+  column-gap: 50px;
+
+}
+
+.nav-links-btn{
+gap: 50px; 
+margin-left: auto;
+justify-content: center;
+align-items: center;
+margin-left: 400px;
+margin-right: 100px;
+font-size: 16px;
+
+}
+
+.logoschool{
+  margin-left: 5rem;
+  margin-block-start: auto;
+}
+.banner-start{
+  margin-left: 5rem;
+  margin-top: 10rem;
+}
+/*.banner-section{
+  margin-top: 15rem;
+}*/
+.banner-title{
+  font-weight: 700;
+  margin-top: 5rem;
+  /*margin-left: 5rem;*/
+ }
+
+  /*.banner .hero-kids{
+  /*max-width: 300px;
+  grid-template-columns: repeat(1, 1fr);
+  column-gap: 2.5rem;
+ }*/
+
+ 
+ .hero-kids{
+  margin-left: 7rem;
+  margin-right:7rem ;
+  margin-top: .05rem;
+  
+  
+ }
+
+ .banner {
+  display: flex;
+  /*margin-left: 5rem;*/
+  }
+
+  .banner description{
+    margin: 0px;
+
+  }
+
+ /*.banner{
+  margin-left: auto;
+  margin-top: 15rem;
+  border: saddlebrown;
+ }*/
+
+  /*.banner description{
+    margin-top: 0%;
+    margin-left: 5rem;
+ }*/
+
+ .Sandard-Curriculam{
+  /*margin-top: 25rem;*/
+  max-width: 460px;
+  margin: 5rem auto;
+
+  }
+
+  .curriculam-container{
+   display:flex;
+   gap: 5rem;
+   margin-left: 5rem;
+   margin-right: 5rem;
+   /*border: solid chocolate;*/
+   
+  }
+  .curriculam{
+    border: solid cornflowerblue;
+    border-radius: 8px;
+    opacity: 2px;
+    /*justify-content: space-around;*/
+    /*justify-content: center;
+    align-items: center;
+    padding: auto;*/
+    text-align: center;
+
+  }
+  .ball{
+
+
+   
+    display: flex;
+    margin-top: 5rem;
+    justify-content: center;
+  }
+   
